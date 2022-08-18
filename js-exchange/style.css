@@ -1,0 +1,10 @@
+#main span.card-title{
+    font-size: 32px ;
+}
+.card .card-header{
+    margin-left: 15px;
+}
+#outputResult{
+    color: red;
+    font-weight: bolder;
+}
